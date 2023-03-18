@@ -5,7 +5,7 @@ package provider
 
 import (
 	"context"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 	"time"
 
